@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/plainId-demo/static/css/main.40cd4519.chunk.css",
+    "main.js": "/plainId-demo/static/js/main.d34d99ae.chunk.js",
+    "main.js.map": "/plainId-demo/static/js/main.d34d99ae.chunk.js.map",
+    "runtime-main.js": "/plainId-demo/static/js/runtime-main.e33caea1.js",
+    "runtime-main.js.map": "/plainId-demo/static/js/runtime-main.e33caea1.js.map",
+    "static/js/2.fd6de972.chunk.js": "/plainId-demo/static/js/2.fd6de972.chunk.js",
+    "static/js/2.fd6de972.chunk.js.map": "/plainId-demo/static/js/2.fd6de972.chunk.js.map",
+    "index.html": "/plainId-demo/index.html",
+    "static/css/main.40cd4519.chunk.css.map": "/plainId-demo/static/css/main.40cd4519.chunk.css.map",
+    "static/js/2.fd6de972.chunk.js.LICENSE.txt": "/plainId-demo/static/js/2.fd6de972.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/plainId-demo/static/media/Roboto-Regular.a8d6ac03.ttf",
+    "static/media/active.84446a43.svg": "/plainId-demo/static/media/active.84446a43.svg",
+    "static/media/arrow-right.ec98d86f.svg": "/plainId-demo/static/media/arrow-right.ec98d86f.svg",
+    "static/media/close-icon.418e88ff.svg": "/plainId-demo/static/media/close-icon.418e88ff.svg",
+    "static/media/help.3b8b3242.svg": "/plainId-demo/static/media/help.3b8b3242.svg",
+    "static/media/logo.4cd730df.png": "/plainId-demo/static/media/logo.4cd730df.png",
+    "static/media/menu.45e6a9f1.svg": "/plainId-demo/static/media/menu.45e6a9f1.svg",
+    "static/media/search.aa742019.svg": "/plainId-demo/static/media/search.aa742019.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e33caea1.js",
+    "static/js/2.fd6de972.chunk.js",
+    "static/css/main.40cd4519.chunk.css",
+    "static/js/main.d34d99ae.chunk.js"
+  ]
+}
