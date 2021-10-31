@@ -1,0 +1,39 @@
+.app-menu {
+    background-color: $white;
+    transition: 0.1s ease-in;
+    position: relative;
+    transform: translateX(-300px);
+    width: 0;
+    z-index: 2;
+    &.open {
+        width: 300px;
+        transform: translateX(0);
+        display: block;
+    }
+    .close-menu {
+        position: absolute;
+        top: 12px;
+        right: 10px;
+        cursor: pointer;
+    }
+    .menu-header {
+        padding: 10px 12px;
+        h1 {
+            margin-bottom: 10px;
+        }
+        .search-container {
+            background-color: $light-gray;
+            justify-content: space-between;
+            padding: 5px;
+            input {
+                background-color: inherit;
+                outline: none;
+                border: none;
+                flex-grow: 1;
+                &::placeholder {
+                    color: #9d9d9d;
+                }
+            }
+        }
+    }
+}

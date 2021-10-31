@@ -1,0 +1,24 @@
+.resource-info {
+    flex-basis: 60%;
+    .info-body {
+        gap: 10px;
+        font-size: rem(12px);
+        .resource-field {
+            span {
+                text-transform: uppercase;
+                font-family: Roboto-medium;
+                margin-bottom: 3px;
+                color: #b7b9c6;
+            }
+            p {
+                background-color: $light-gray;
+                padding: 10px;
+            }
+            &:nth-child(2) {
+                p {
+                    min-height: 64px;
+                }
+            }
+        }
+    }
+}

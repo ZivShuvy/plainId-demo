@@ -1,0 +1,21 @@
+// Setup
+@import "setup/variables";
+@import "setup/functions";
+@import "setup/mixins";
+@import "setup/typography";
+
+// Basics
+@import "basics/helpers";
+@import "basics/base";
+
+// Pages
+@import "pages/App";
+
+// Components
+@import "cmps/AppHeader";
+@import "cmps/AppMenu";
+@import "cmps/ResourcePreview";
+@import "cmps/ResourceDetails";
+@import "cmps/resource-details-cmps/ResourceHeader";
+@import "cmps/resource-details-cmps/ResourceInfo";
+@import "cmps/resource-details-cmps/ActionsMenu";

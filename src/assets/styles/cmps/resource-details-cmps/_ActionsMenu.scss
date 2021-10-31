@@ -1,0 +1,13 @@
+.actions-menu {
+    flex-basis: 40%;
+    .actions-body {
+        padding-top: 17px;
+        gap: 4px;
+        .action {
+            background-color: $light-gray;
+            padding: 10px;
+            font-size: rem(14px);
+            color: #a0a1a3;
+        }
+    }
+}

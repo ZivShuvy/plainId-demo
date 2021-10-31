@@ -1,0 +1,14 @@
+.resource-header {
+    background-color: #5291eb;
+    color: $white;
+    height: 17%;
+    padding: 20px;
+    span {
+        font-size: rem(20px);
+        margin-bottom: 10px;
+    }
+    p {
+        font-size: rem(14px);
+        color: #e9e9e9;
+    }
+}

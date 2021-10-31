@@ -1,0 +1,26 @@
+.resource-preview {
+    padding: 12px;
+    border-bottom: 2px solid #f3f3f3;
+    cursor: pointer;
+    justify-content: space-between;
+    & > div {
+        gap: 7px;
+        span {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+    }
+    .arrow-right-icon {
+        visibility: hidden;
+    }
+    &.active {
+        background-color: #e6e6e6;
+        border-left: 4px solid $blue;
+        padding-left: 8px;
+        font-family: Roboto-bold;
+        .arrow-right-icon {
+            visibility: visible;
+        }
+    }
+}
